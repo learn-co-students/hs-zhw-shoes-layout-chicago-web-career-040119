@@ -23,5 +23,36 @@
 }
 
 /* Positioning Classes */
+#details {
+  column-count: 3;
+  column-rule: 0.5px;
+  margin-top: 0;
+  margin-left: 12%;
+  
+  
+}
 
+
+.col-1 {
+  float:left;
+  width: 32%;
+}
+
+.col-2 {
+  float:left;
+  width: 66%;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+
+section {
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.first {
+  margin-left: 0%;
+}
 
