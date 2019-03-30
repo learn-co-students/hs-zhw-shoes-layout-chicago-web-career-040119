@@ -48,3 +48,12 @@
   margin-left: 0;
   clear: left;
 }
+
+.bottom-col {
+  float: left;
+  width: 32%;
+  margin-top: 15px;
+  margin-left: 2%;
+  top: 5px;
+  position: relative;
+}
