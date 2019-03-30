@@ -41,3 +41,7 @@
   margin-top: 15px;
   margin-left: 2%;
 }
+
+.shoe-image-col:first-child {
+margin-left: 0%;
+}
