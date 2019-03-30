@@ -35,4 +35,9 @@
   width: 66%;
 }
 
-.shoe-image-col
+.shoe-image-col {
+  float: left;
+  width: 32%;
+  margin-top: 15px;
+  margin-left: 2%;
+}
