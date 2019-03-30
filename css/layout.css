@@ -45,4 +45,5 @@
 
 .shoe-image-col:first-child {
 margin-left: 0;
+clear: left;
 }
