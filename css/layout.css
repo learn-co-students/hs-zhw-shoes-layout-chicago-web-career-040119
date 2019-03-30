@@ -24,4 +24,44 @@
 
 /* Positioning Classes */
 
+.col-shoe-archive {
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
 
+.col-2 {
+  float: left;
+  width: 66%;
+}
+
+.shoe-image-col {
+  float: left;
+  width: 32%;
+  margin-top: 15px;
+  margin-left: 2%;
+  top: 5px;
+  position: relative;
+}
+
+.shoe-image-col-first {
+  margin-left: 0;
+  clear: left;
+}
+
+.bottom-col {
+  float: left;
+  width: 32%;
+  margin-top: 15px;
+  margin-right: 2%;
+  top: 5px;
+  position: relative;
+}
+
+.bottom-col-last {
+  float: left;
+  width: 32%;
+  margin-top: 15px;
+  top: 5px;
+  position: relative;
+}
